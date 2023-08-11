@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d1b1652-de6a-495e-9586-63c82f72fc2a" name="Changes" comment="Updated Kotlin plugin">
-      <change afterPath="$PROJECT_DIR$/src/main/java/geekbrains/hw/lesson5/Task1.java" afterDir="false" />
+    <list default="true" id="2d1b1652-de6a-495e-9586-63c82f72fc2a" name="Changes" comment="Started working on Lesson 5 HW">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/geekbrains/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/geekbrains/hw/lesson5/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geekbrains/hw/lesson5/Task1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,13 +78,22 @@
       <option name="project" value="LOCAL" />
       <updated>1691751981705</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Started working on Lesson 5 HW">
+      <option name="closed" value="true" />
+      <created>1691752572605</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691752572605</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created workspace for the Java homework" />
     <MESSAGE value="Updated Kotlin plugin" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated Kotlin plugin" />
+    <MESSAGE value="Started working on Lesson 5 HW" />
+    <option name="LAST_COMMIT_MESSAGE" value="Started working on Lesson 5 HW" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
