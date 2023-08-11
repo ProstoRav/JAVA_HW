@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d1b1652-de6a-495e-9586-63c82f72fc2a" name="Changes" comment="Finished Task2 of Lesson 5 HW + small corrections to Task1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="2d1b1652-de6a-495e-9586-63c82f72fc2a" name="Changes" comment="Added Task1,2 of Lesson 5 HW to README.md" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691767633797</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added Task1,2 of Lesson 5 HW to README.md">
+      <option name="closed" value="true" />
+      <created>1691769686255</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1691769686255</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -113,7 +118,8 @@
     <MESSAGE value="Started working on Lesson 5 HW" />
     <MESSAGE value="Finished Task1 of Lesson 5 HW" />
     <MESSAGE value="Finished Task2 of Lesson 5 HW + small corrections to Task1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished Task2 of Lesson 5 HW + small corrections to Task1" />
+    <MESSAGE value="Added Task1,2 of Lesson 5 HW to README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Task1,2 of Lesson 5 HW to README.md" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
