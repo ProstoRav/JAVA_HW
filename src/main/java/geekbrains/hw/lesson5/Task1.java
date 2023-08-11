@@ -1,9 +1,6 @@
 package geekbrains.hw.lesson5;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Objects;
+import java.util.*;
 
 public class Task1 {
     public static void main(String[] args) {
@@ -26,6 +23,8 @@ public class Task1 {
                 "Иван Мечников",
                 "Петр Петин",
                 "Иван Ежов"};
+        System.out.println("Искомый список сотрудников: ");
+        Arrays.stream(workers).forEach(System.out::println);
         ArrayList<String> workersNames = getNames(workers);
         Map<String, Integer> mapNames = getNamesMap(workersNames);
         printNamesWithRepeats(mapNames);
@@ -50,7 +49,7 @@ public class Task1 {
         for (int i = listOfNamesCount.size() - 1; i > -1; i--) {
             for (var item : mapOfNames.entrySet()) {
                 if (Objects.equals(listOfNamesCount.get(i), item.getValue()))
-                    System.out.printf("%s: %d \n", item.getKey(), item.getValue());
+                    System.out.printf("%s: %d раз(а) \n", item.getKey(), item.getValue());
             }
         }
     }
@@ -66,7 +65,7 @@ public class Task1 {
         System.out.println("Повторяющиеся имена с количеством повторений: ");
         for (var item : mapOfNames.entrySet()) {
             if (item.getValue() > 1)
-                System.out.printf("%s: %d \n", item.getKey(), item.getValue());
+                System.out.printf("%s: %d раз(а) \n", item.getKey(), item.getValue());
         }
     }
 
