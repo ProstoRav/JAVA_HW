@@ -88,7 +88,7 @@ public class Methods {
 
     /**
      * @param choice изначальный выбор меню пользователя
-     * @apiNote возвращаем
+     * @apiNote возвращаем готовый список ноутбуков исходя из введенных пользователем параметров
      */
 
     private static void filterList(Integer choice) {
